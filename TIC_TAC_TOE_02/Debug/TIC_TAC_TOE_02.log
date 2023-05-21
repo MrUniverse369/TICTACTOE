@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\tham_\OneDrive\Studio management\Data\C++ Files\Problems and projects\Games\TIC_TAC_TOE_GAME_02\TIC_TAC_TOE_02\TIC_TAC_TOE_02\main.cpp(213,28): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tham_\OneDrive\Studio management\Data\C++ Files\Problems and projects\Games\TIC_TAC_TOE_GAME_02\TIC_TAC_TOE_02\TIC_TAC_TOE_02\main.cpp(237,33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tham_\OneDrive\Studio management\Data\C++ Files\Problems and projects\Games\TIC_TAC_TOE_GAME_02\TIC_TAC_TOE_02\TIC_TAC_TOE_02\main.cpp(252,30): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  TIC_TAC_TOE_02.vcxproj -> C:\Users\tham_\OneDrive\Studio management\Data\C++ Files\Problems and projects\Games\TIC_TAC_TOE_GAME_02\TIC_TAC_TOE_02\Debug\TIC_TAC_TOE_02.exe
